@@ -5,8 +5,7 @@ date: "July 18, 2017"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 Here's some stuff to start with.
+
+Let's edit this file.
+
